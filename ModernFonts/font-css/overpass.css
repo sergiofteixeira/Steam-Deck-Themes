@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Overpass;
+  src: url("/themes_custom/ModernFonts/fonts/Overpass-Regular.ttf");
+}
+
+@font-face {
+  font-family: Overpass;
+  src: url("/themes_custom/ModernFonts/fonts/Overpass-Bold.ttf");
+  font-weight: bold;
+}
+
+* {
+  font-family: Overpass !important;
+}

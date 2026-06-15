@@ -1,6 +1,6 @@
 {
   "name": "Modern Fonts",
-  "description": "A curated selection of modern, open-source typefaces for the Steam Deck: Geist, Inter, and DM Sans.",
+  "description": "A curated selection of modern, open-source typefaces for the Steam Deck: Geist, Inter, DM Sans, and Manrope.",
   "author": "sergiofteixeira",
   "version": "v4.0",
   "manifest_version": 3,
@@ -20,6 +20,18 @@
         },
         "DM Sans": {
           "font-css/dm-sans.css": ["SP", "MainMenu", "QuickAccess"]
+        },
+        "Manrope": {
+          "font-css/manrope.css": ["SP", "MainMenu", "QuickAccess"]
+        },
+        "Satoshi": {
+          "font-css/satoshi.css": ["SP", "MainMenu", "QuickAccess"]
+        },
+        "IBM Plex Sans": {
+          "font-css/ibm-plex-sans.css": ["SP", "MainMenu", "QuickAccess"]
+        },
+        "Overpass": {
+          "font-css/overpass.css": ["SP", "MainMenu", "QuickAccess"]
         }
       }
     },

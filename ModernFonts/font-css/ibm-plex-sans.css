@@ -1,0 +1,14 @@
+@font-face {
+  font-family: IBMPlexSans;
+  src: url("/themes_custom/ModernFonts/fonts/IBMPlexSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: IBMPlexSans;
+  src: url("/themes_custom/ModernFonts/fonts/IBMPlexSans-Bold.ttf");
+  font-weight: bold;
+}
+
+* {
+  font-family: IBMPlexSans !important;
+}

@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Satoshi;
+  src: url("/themes_custom/ModernFonts/fonts/Satoshi-Regular.ttf");
+}
+
+@font-face {
+  font-family: Satoshi;
+  src: url("/themes_custom/ModernFonts/fonts/Satoshi-Bold.ttf");
+  font-weight: bold;
+}
+
+* {
+  font-family: Satoshi !important;
+}

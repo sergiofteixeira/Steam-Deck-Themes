@@ -16,3 +16,7 @@ Three modern, open-source typefaces:
 - **Geist** — Vercel's typeface. Modern, geometric sans-serif with excellent readability.
 - **Inter** — Rasmus Andersson's typeface. Designed for screens with a tall x-height.
 - **DM Sans** — Colophon Foundry's geometric sans-serif. Clean and versatile.
+- **Manrope** — Mikhail Sharanda's typeface. Modern geometric sans-serif with open apertures.
+- **Satoshi** — Indian Type Foundry's typeface. Clean, versatile sans with excellent legibility.
+- **IBM Plex Sans** — IBM's typeface. Professional, highly readable sans-serif with a distinctive personality.
+- **Overpass** — Delve Fonts' typeface. Highway-sign-inspired sans-serif with clear legibility.

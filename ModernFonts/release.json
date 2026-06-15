@@ -5,7 +5,15 @@
     "fonts/Inter-Regular.ttf",
     "fonts/Inter-Bold.ttf",
     "fonts/DMSans-Regular.ttf",
-    "fonts/DMSans-Bold.ttf"
+    "fonts/DMSans-Bold.ttf",
+    "fonts/Manrope-Regular.ttf",
+    "fonts/Manrope-Bold.ttf",
+    "fonts/Satoshi-Regular.ttf",
+    "fonts/Satoshi-Bold.ttf",
+    "fonts/IBMPlexSans-Regular.ttf",
+    "fonts/IBMPlexSans-Bold.ttf",
+    "fonts/Overpass-Regular.ttf",
+    "fonts/Overpass-Bold.ttf"
   ],
   "ignore": []
 }

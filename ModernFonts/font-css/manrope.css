@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Manrope;
+  src: url("/themes_custom/ModernFonts/fonts/Manrope-Regular.ttf");
+}
+
+@font-face {
+  font-family: Manrope;
+  src: url("/themes_custom/ModernFonts/fonts/Manrope-Bold.ttf");
+  font-weight: bold;
+}
+
+* {
+  font-family: Manrope !important;
+}

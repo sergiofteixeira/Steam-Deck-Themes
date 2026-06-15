@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Geist;
+  src: url("/themes_custom/ModernFonts/fonts/Geist-Regular.ttf");
+}
+
+@font-face {
+  font-family: Geist;
+  src: url("/themes_custom/ModernFonts/fonts/Geist-Bold.ttf");
+  font-weight: bold;
+}
+
+* {
+  font-family: Geist !important;
+}

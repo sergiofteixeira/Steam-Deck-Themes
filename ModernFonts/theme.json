@@ -1,0 +1,40 @@
+{
+  "name": "Modern Fonts",
+  "description": "A curated selection of modern, open-source typefaces for the Steam Deck: Geist, Inter, and DM Sans.",
+  "author": "sergiofteixeira",
+  "version": "v4.0",
+  "manifest_version": 3,
+  "inject": {},
+  "target": "System-Wide",
+  "patches": {
+    "Font": {
+      "default": "None",
+      "type": "dropdown",
+      "values": {
+        "None": {},
+        "Geist": {
+          "font-css/geist.css": ["SP", "MainMenu", "QuickAccess"]
+        },
+        "Inter": {
+          "font-css/inter.css": ["SP", "MainMenu", "QuickAccess"]
+        },
+        "DM Sans": {
+          "font-css/dm-sans.css": ["SP", "MainMenu", "QuickAccess"]
+        }
+      }
+    },
+    "Text Transform": {
+      "default": "None",
+      "type": "dropdown",
+      "values": {
+        "None": {},
+        "Standard Case": {
+          "case/standard-case.css": ["SP", "MainMenu", "QuickAccess"]
+        },
+        "Uppercase": {
+          "case/uppercase.css": ["SP", "MainMenu", "QuickAccess"]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+@font-face {
+  font-family: DMSans;
+  src: url("/themes_custom/ModernFonts/fonts/DMSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: DMSans;
+  src: url("/themes_custom/ModernFonts/fonts/DMSans-Bold.ttf");
+  font-weight: bold;
+}
+
+* {
+  font-family: DMSans !important;
+}

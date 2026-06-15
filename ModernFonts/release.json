@@ -1,0 +1,11 @@
+{
+  "include": [
+    "fonts/Geist-Regular.ttf",
+    "fonts/Geist-Bold.ttf",
+    "fonts/Inter-Regular.ttf",
+    "fonts/Inter-Bold.ttf",
+    "fonts/DMSans-Regular.ttf",
+    "fonts/DMSans-Bold.ttf"
+  ],
+  "ignore": []
+}
